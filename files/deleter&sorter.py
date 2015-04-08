@@ -1,6 +1,6 @@
-text = list(map(str, open("input").read().split()))
-def sort_text(text):
-    for i in text:
-        if i in open("lib"):
-            text[i] = "None"
-leng = len(text)
+text = list(map(str, open("text.txt").read().split()))
+
+for i in range(len(text)):
+            if text[i] in list(map(str, open("lib.txt").read().split())):
+                        text[i] = None
+print(text)
