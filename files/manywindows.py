@@ -163,7 +163,7 @@ class Icon:
     def dnd_end(self, target, event):
         pass
 
-class Tester:
+class Window:
 
     def __init__(self, root):
         self.top = tkinter.Toplevel(root)
@@ -201,8 +201,8 @@ def test():
     root = tkinter.Tk()
     root.geometry("+1+1")
     tkinter.Button(command=root.quit, text="Quit").pack()
-    t1 = Tester(root)
-    t2 = Tester(root)
+    t1 = Window(root)
+    t2 = Window(root)
     root.mainloop()
 
 if __name__ == '__main__':
