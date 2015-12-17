@@ -1,8 +1,5 @@
 Design guide
 For use from September 2014
-
-Design guide
-For use from September 2014
 MYP330
 International Baccalaureate, Baccalaur?at International and Bachillerato Internacional
 are registered trademarks of the International Baccalaureate Organization.
@@ -15,7 +12,7 @@ Peterson House, Malthouse Avenue, Cardiff Gate
 Cardiff, Wales CF23 8GL
 United Kingdom
 Website: www.ibo.org
-© International Baccalaureate Organization 2014
+  International Baccalaureate Organization 2014
 The International Baccalaureate Organization (known as the IB) offers four high-quality
 and challenging educational programmes for a worldwide community of schools, aiming
 to create a better, more peaceful world. This publication is one of a range of materials
@@ -29,7 +26,7 @@ in this publication and will be pleased to correct any errors or omissions at th
 opportunity.
 All rights reserved. No part of this publication may be reproduced, stored in a retrieval
 system, or transmitted, in any form or by any means, without the prior written permission
-of the IB, or as expressly permitted by law or by the IB’s own rules and policy. See
+of the IB, or as expressly permitted by law or by the IB s own rules and policy. See
 http://www.ibo.org/copyright.
 IB merchandise and publications can be purchased through the IB store at
 http://store.ibo.org.
@@ -39,6 +36,8 @@ and Jakarta World Academy, Indonesia.
 Middle Years Programme
 Design guide
 
+Sometimes, instead of laparoscopy, hysteroscopy is carried out. In this case, and the puncture did not have to - all the tools are introduced into the uterus through her cervix. The patient was discharged home after a few hours after surgery.
+\ No newline at end of file
 IB mission statement
 The International Baccalaureate aims to develop inquiring, knowledgeable and caring young people who
 help to create a better and more peaceful world through intercultural understanding and respect.
@@ -83,17 +82,17 @@ Selected reading 52
 Design guide 1
 Introduction
 Purpose of this guide
-For use from September 2014 or January 2015, depending on the start of the school year.
+For use from September 2014 or January 2015, depending on the start of the school year.
 This document provides the framework for teaching and learning in design in the Middle Years
-Programme (MYP) and must be read and used in conjunction with the document MYP: From principles into
-practice (May 2014), which includes:
-•	 general information about the programme
-•	 the MYP unit planner, with guidance for developing the curriculum that is relevant for all subject
+Programme (MYP) and must be read and used in conjunction with the document MYP: From principles into
+practice (May 2014), which includes:
+ 	 general information about the programme
+ 	 the MYP unit planner, with guidance for developing the curriculum that is relevant for all subject
 groups
-•	 detailed information about approaches to learning
-•	 advice that supports access and inclusion (including accommodations for students with learning
+ 	 detailed information about approaches to learning
+ 	 advice that supports access and inclusion (including accommodations for students with learning
 support requirements)
-•	 a statement on academic honesty.
+ 	 a statement on academic honesty.
 In MYP subject guides, requirements appear in a text box like this one.
 Additional resources
 Teacher support materials (TSMs) are available in the online curriculum centre (http://occ.ibo.org). The
@@ -115,23 +114,23 @@ Middle Years Programme model
 The MYP is designed for students aged 11 to 16. It provides a framework of learning that encourages students
 to become creative, critical and reflective thinkers. The MYP emphasizes intellectual challenge, encouraging
 students to make connections between their studies in traditional subjects and the real world. It fosters the
-development of skills for communication, intercultural understanding and global engagement—essential
+development of skills for communication, intercultural understanding and global engagement essential
 qualities for young people who are becoming global leaders.
 The MYP is flexible enough to accommodate the demands of most national or local curriculums. It builds
 upon the knowledge, skills and attitudes developed in the IB Primary Years Programme (PYP) and prepares
 students to meet the academic challenges of the IB Diploma Programme (DP) and the IB Career-related
 Certificate (IBCC).
 The MYP:
-•	 addresses holistically students’ intellectual, social, emotional and physical well-being
-•	 provides students opportunities to develop the knowledge, attitudes and skills they need in order
+ 	 addresses holistically students  intellectual, social, emotional and physical well-being
+ 	 provides students opportunities to develop the knowledge, attitudes and skills they need in order
 to manage complexity and take responsible action for the future
 Programme model
 Design guide 3
-•	 ensures breadth and depth of understanding through study in eight subject groups
-•	 requires the study of at least two languages to support students in understanding their own cultures
+ 	 ensures breadth and depth of understanding through study in eight subject groups
+ 	 requires the study of at least two languages to support students in understanding their own cultures
 and those of others
-•	 empowers students to participate in service with the community
-•	 helps to prepare students for further education, the workplace and a lifetime of learning.
+ 	 empowers students to participate in service with the community
+ 	 helps to prepare students for further education, the workplace and a lifetime of learning.
 4 Design guide
 Design in the MYP
 Nature of design
@@ -146,13 +145,13 @@ Competent design is not only within the reach of a small set of uniquely skilled
 achieved by all. The use of well-established design principles and processes increases the probability that a
 design will be successful. To do this, designers use a wide variety of principles which, taken together, make
 up what is known as the design cycle.
-•	 Designers adapt their approach to different design situations, but they have a common understanding
+ 	 Designers adapt their approach to different design situations, but they have a common understanding
 of the process necessary to form valid and suitable solutions.
-•	 A designer has a role and responsibility to the community and the environment. Their decisions can
+ 	 A designer has a role and responsibility to the community and the environment. Their decisions can
 have a huge impact and, therefore, their ethics and morals can and should be questioned regularly.
-•	 A designer should have the ability to maintain an unbiased view of a situation and evaluate a situation
+ 	 A designer should have the ability to maintain an unbiased view of a situation and evaluate a situation
 objectively, highlighting the strengths and weaknesses of a common product or system.
-•	 Good communication is a key trait of any good designer through visual and oral presentation.
+ 	 Good communication is a key trait of any good designer through visual and oral presentation.
 Designing requires an individual to be imaginative and creative, while having a substantial knowledge
 base of important factors that will aid or constrain the process. Decisions made need to be supported by
 adequate and appropriate research and investigation. Designers must adopt an approach that allows them
@@ -164,9 +163,9 @@ to be involved in a community of inquiry with certain common beliefs, methodolog
 processes.
 MYP design challenges all students to apply practical and creative thinking skills to solve design problems;
 encourages students to explore the role of design in both historical and contemporary contexts; and raises
-students’ awareness of their responsibilities when making design decisions and taking action.
+students  awareness of their responsibilities when making design decisions and taking action.
 Inquiry and problem-solving are at the heart of the subject group. MYP design requires the use of the
-design cycle as a tool, which provides the methodology used to structure the inquiry and analysis of
+design cycle as a tool, which provides the methodology used to structure the inquiry and analysis of
 problems, the development of feasible solutions, the creation of solutions, and the testing and evaluation
 of the solution. In MYP design, a solution can be defined as a model, prototype, product or system that
 students have developed and created independently.
@@ -215,28 +214,28 @@ develop skills in design and evaluation that they use to undertake new challenge
 and solve problems in a creative way.
 The knowledge, skills and attitudes that students develop in design courses provide a meaningful
 foundation for further study and help to prepare students for:
-•	 careers in fashion, food, graphic, industrial, instructional, multimedia, product, publications, video
+ 	 careers in fashion, food, graphic, industrial, instructional, multimedia, product, publications, video
 game and web design
-•	 architecture
-•	 education
-•	 roles in engineering, manufacturing, advertising and media industries
-•	 project management among others.
+ 	 architecture
+ 	 education
+ 	 roles in engineering, manufacturing, advertising and media industries
+ 	 project management among others.
 Design guide 7
 Design in the MYP
 Aims
 The aims of all MYP subjects state what a teacher may expect to teach and what a student may expect to
 experience and learn. These aims suggest how the student may be changed by the learning experience.
 The aims of MYP design are to encourage and enable students to:
-•	 enjoy the design process, develop an appreciation of its elegance and power
-•	 develop knowledge, understanding and skills from different disciplines to design and create solutions
+ 	 enjoy the design process, develop an appreciation of its elegance and power
+ 	 develop knowledge, understanding and skills from different disciplines to design and create solutions
 to problems using the design cycle
-•	 use and apply technology effectively as a means to access, process and communicate information,
+ 	 use and apply technology effectively as a means to access, process and communicate information,
 model and create solutions, and to solve problems
-•	 develop an appreciation of the impact of design innovations for life, global society and environments
-•	 appreciate past, present and emerging design within cultural, political, social, historical and
+ 	 develop an appreciation of the impact of design innovations for life, global society and environments
+ 	 appreciate past, present and emerging design within cultural, political, social, historical and
 environmental contexts
-•	 develop respect for others’ viewpoints and appreciate alternative solutions to problems
-•	 act with integrity and honesty, and take responsibility for their own actions developing effective
+ 	 develop respect for others  viewpoints and appreciate alternative solutions to problems
+ 	 act with integrity and honesty, and take responsibility for their own actions developing effective
 working practices.
 8 Design guide
 Design in the MYP
@@ -249,7 +248,7 @@ Each objective is elaborated by a number of strands; a strand is an aspect or in
 expectation.
 Subject groups must address all strands of all four objectives at least twice in each year of the MYP.
 The objectives for years 1, 3 and 5 of the programme are provided in the guide and their use is mandatory.
-These objectives relate directly to the assessment criteria found in the “Assessed curriculum” section of this
+These objectives relate directly to the assessment criteria found in the  Assessed curriculum  section of this
 guide.
 Together these objectives reflect the knowledge, skills and attitudes that students need in order to engage
 with and solve complex, real-life problems in both familiar and unfamiliar contexts; they represent essential
@@ -586,9 +585,9 @@ Design in the MYP
 Interdisciplinary learning
 Interdisciplinary teaching and learning is grounded in individual subject groups and disciplines, but extends
 disciplinary understanding in ways that are:
-•	 integrative—bringing together concepts, methods, or modes of communication from two or more
+ 	 integrative bringing together concepts, methods, or modes of communication from two or more
 subject groups, disciplines, or established areas of expertise to develop new perspectives
-•	 purposeful—connecting disciplines to solve real-world problems, create products or address
+ 	 purposeful connecting disciplines to solve real-world problems, create products or address
 complex issues in ways that would have been unlikely through a single approach.
 Interdisciplinary teaching and learning builds a connected curriculum that addresses the developmental
 needs of students in the MYP. It prepares students for further academic (inter)disciplinary study and for life
@@ -601,12 +600,12 @@ MYP schools are responsible for engaging students in at least one collaborativel
 interdisciplinary unit for each year of the programme.
 MYP design offers many opportunities for interdisciplinary teaching and learning. Possible interdisciplinary
 units in this subject group could include inquiries into:
-•	 relationships between athletic performance and technological innovation/design (physical and health
+ 	 relationships between athletic performance and technological innovation/design (physical and health
 education)
-•	 scientific and aesthetic concepts and principles used to inform the development of design solutions
+ 	 scientific and aesthetic concepts and principles used to inform the development of design solutions
 (sciences and arts)
-•	 interactive multimedia products used to communicate literary concepts (language and literature)
-•	 historical and cultural developments of a product or system (individuals and societies).
+ 	 interactive multimedia products used to communicate literary concepts (language and literature)
+ 	 historical and cultural developments of a product or system (individuals and societies).
 Interdisciplinary learning can take place through large and small-scale learning engagements. Authentic
 interdisciplinary learning often requires critical reflection and detailed collaborative planning. However,
 teachers and students can also make interdisciplinary connections through spontaneous learning
@@ -616,7 +615,7 @@ for interdisciplinary teaching and learning.
 Design guide 15
 Design in the MYP
 MYP projects
-The MYP community project (for students in years 3 or 4) and MYP personal project (for students in year 5)
+The MYP community project (for students in years 3 or 4) and MYP personal project (for students in year 5)
 aim to encourage and enable sustained inquiry within a global context that generates new insights and
 deeper understanding. In these culminating experiences, students develop confidence as principled,
 lifelong learners. They grow in their ability to consider their own learning, communicate effectively and take
@@ -631,10 +630,10 @@ design cycle as a structured methodology for problem-solving and project managem
 provide an important resource for any student whose project focuses on solving a problem.
 Design offers many opportunities for learning through action. Inspiration from design for community
 projects and personal projects might include inquiries into:
-•	 design methodologies, organizations, heroes or movements
-•	 important personal, community or global issues, problems and solutions
-•	 the development of sustainable solutions to everyday problems
-•	 improving lives in the school, local community or wider world through the development of new
+ 	 design methodologies, organizations, heroes or movements
+ 	 important personal, community or global issues, problems and solutions
+ 	 the development of sustainable solutions to everyday problems
+ 	 improving lives in the school, local community or wider world through the development of new
 technologies.
 16 Design guide
 Written and taught curriculum
@@ -647,15 +646,15 @@ In practice more time is often necessary to meet subject area aims and objective
 sustained, concurrent teaching that enables interdisciplinary study.
 For students pursuing IB MYP Results that can contribute to the awarding of the IB MYP Certificate, design
 courses should include at least 70 teaching hours in each of the final two years of the programme (MYP
-year 4 and MYP year 5).
+year 4 and MYP year 5).
 The teaching of information and communication technology (ICT) skills should not be confused with or take
 the place of a digital design course. ICT comprises of tools used to develop digital design solutions.
 Organizing design in the school
 In order to give the students an opportunity to meet the MYP design objectives at the highest level, teachers
 should plan a balanced curriculum that includes significant content. Design courses can be offered:
-•	 as a distinct digital and/or product design course
-•	 as a series of distinct digital and/or product design courses
-•	 as a single course which combines digital and product design.
+ 	 as a distinct digital and/or product design course
+ 	 as a series of distinct digital and/or product design courses
+ 	 as a single course which combines digital and product design.
 Digital design courses use the design cycle to solve problems through the use of a computer system. The
 study of digital design equips students to create computer-generated digital products/solutions to solve
 a problem and meet a perceived need. Two-dimensional (2D) tangible solutions created using computeraided
@@ -674,13 +673,13 @@ and so on.
 Requirements
 Design guide 17
 All MYP design courses must ensure that students:
-•	 use the design cycle to structure projects
-•	 work towards meeting the aims and objectives of MYP design.
+ 	 use the design cycle to structure projects
+ 	 work towards meeting the aims and objectives of MYP design.
 18 Design guide
 Written and taught curriculum
 Planning the design curriculum
 IB World Schools are responsible for developing and structuring MYP design courses that provide
-opportunities for students to meet the aims and objectives of the programme. Each school’s circumstances,
+opportunities for students to meet the aims and objectives of the programme. Each school s circumstances,
 including local and national curriculum requirements, determine the organization of design within the
 school.
 The MYP standards and practices require schools to facilitate and promote collaborative planning for the
@@ -688,24 +687,24 @@ purpose of curriculum development and review.
 Design objectives for years 1 to 5 of the curriculum provide continuity and outline a progression of
 learning. These objectives guide teachers in making decisions about developmentally appropriate learning
 experiences, including formative and summative assessments.
-•	 As they develop the vertical articulation of design over the years of the programme, teachers should
+ 	 As they develop the vertical articulation of design over the years of the programme, teachers should
 plan increasingly complex units of work that encompass multiple objectives. However, within these
 units, discrete tasks or smaller units of work might concentrate on specific objectives or individual
 strands.
-•	 Design courses offer many opportunities to build interdisciplinary connections across the curriculum.
+ 	 Design courses offer many opportunities to build interdisciplinary connections across the curriculum.
 Horizontal articulation for each year of the programme should coordinate teaching and learning
 across courses in design, as well as identify shared conceptual understandings and approaches to
 learning (ATL) that span multiple subject groups and help to create a coherent learning experience for
 students throughout the year.
 All objectives must be developed in each year of the programme at the appropriate level. In planning the
-design curriculum, teachers will need to deconstruct the objectives so that they build, during years 1–4,
+design curriculum, teachers will need to deconstruct the objectives so that they build, during years 1 4,
 towards the highest level in the final year of the programme, providing for continuity and progression in
 each objective. The objectives and interim objectives in this guide will guide teachers in making decisions
 about the choice of content and learning experiences offered to students, including the types of assessment
-that are appropriate for the students’ particular stage of development.
+that are appropriate for the students  particular stage of development.
 In the final year of the programme, the curriculum should provide students with the opportunity to achieve
 the highest descriptor levels in the final assessment criteria.
-Table 1 shows how the teaching and learning experiences and the students’ expected outcomes in design
+Table 1 shows how the teaching and learning experiences and the students  expected outcomes in design
 should progress from the earlier years of to the final years of the MYP.
 MYP year 1 MYP year 3 MYP year 5
 Emphasis placed on individual
@@ -762,8 +761,8 @@ Group work
 In many circumstances, students will want to, or need to, work in groups for their design units of work.
 However, it is important to ensure that every member of the group benefits from the dynamics of the social
 interaction and the group-work learning experience. In the case of group work, teachers should be able to
-identify each student’s role and responsibilities to ensure that he or she makes a contribution, and to assess
-each student’s learning at each stage of the design cycle.
+identify each student s role and responsibilities to ensure that he or she makes a contribution, and to assess
+each student s learning at each stage of the design cycle.
 20 Design guide
 Written and taught curriculum
 Teaching and learning through inquiry
@@ -775,8 +774,8 @@ contexts. Teachers and students develop a statement of inquiry and use inquiry q
 the subject. Through their inquiry, students develop specific interdisciplinary and disciplinary approaches
 to learning skills.
 Conceptual understanding
-A concept is a “big idea”—a principle or notion that is enduring, the significance of which goes beyond
-particular origins, subject matter or place in time. Concepts represent the vehicle for students’ inquiry
+A concept is a  big idea  a principle or notion that is enduring, the significance of which goes beyond
+particular origins, subject matter or place in time. Concepts represent the vehicle for students  inquiry
 into the issues and ideas of personal, local and global significance, providing the means by which they can
 explore the essence of design.
 Concepts have an important place in the structure of knowledge that requires students and teachers to
@@ -792,8 +791,8 @@ Key concepts
 Key concepts promote the development of a broad curriculum. They represent big ideas that are both
 relevant within and across disciplines and subjects. Inquiry into key concepts can facilitate connections
 between and among:
-•	 courses within the design subject group (intra-disciplinary learning)
-•	 other subject groups (interdisciplinary learning).
+ 	 courses within the design subject group (intra-disciplinary learning)
+ 	 other subject groups (interdisciplinary learning).
 Table 2 lists the key concepts to be explored across the MYP. The key concepts contributed by the study of
 design are communication, communities, development, and systems.
 Teaching and learning through inquiry
@@ -808,7 +807,7 @@ These key concepts provide a framework for design, informing units of work and h
 teaching and learning.
 Communication is the exchange or transfer of signals, facts, ideas and symbols. It requires a sender, a
 message and an intended receiver. Communication involves the activity of conveying information or
-meaning. Effective communication requires a common “language” (which may be written, spoken or nonverbal).
+meaning. Effective communication requires a common  language  (which may be written, spoken or nonverbal).
 While exploring the concept of communication, students develop an awareness and understanding of
 how, why and when we need to ensure that clear messages are given and received throughout the design
 process. It ensures that ideas can be communicated clearly and each person involved in the development
@@ -863,7 +862,7 @@ Related concepts
 Related concepts promote deep learning. They are grounded in specific disciplines and are useful for
 exploring key concepts in greater detail. Inquiry into related concepts helps students develop more complex
 and sophisticated conceptual understanding. Related concepts may arise from the subject matter of a unit
-or the craft of a subject—its features and processes.
+or the craft of a subject its features and processes.
 Teaching and learning through inquiry
 Design guide 23
 Table 3 lists the related concepts for the study of design.
@@ -879,12 +878,12 @@ Global contexts for teaching and learning
 Global contexts direct learning towards independent and shared inquiry into our common humanity and
 shared guardianship of the planet. Using the world as the broadest context for learning, MYP design can
 develop meaningful explorations of:
-•	 identities and relationships
-•	 orientation in space and time
-•	 personal and cultural expression
-•	 scientific and technical innovation
-•	 globalization and sustainability
-•	 fairness and development.
+ 	 identities and relationships
+ 	 orientation in space and time
+ 	 personal and cultural expression
+ 	 scientific and technical innovation
+ 	 globalization and sustainability
+ 	 fairness and development.
 Teachers must identify a global context for teaching and learning, or develop additional contexts
 that help students explore the relevance of their inquiry (why it matters).
 Many inquiries into design concepts naturally focus on scientific and technical innovation. However, courses
@@ -903,23 +902,23 @@ A local invention can diffuse
 into a global market through
 successful and targeted
 communication.
-•	 Communication
-•	 Invention, innovation,
+ 	 Communication
+ 	 Invention, innovation,
 markets and trends
-•	 Orientation in space and
+ 	 Orientation in space and
 time
-•	 Promotion of a product/
+ 	 Promotion of a product/
 service within a new
 market sector/segment
 Timely interaction with
 clients using appropriate
 communication techniques
 drives design decisions.
-•	 Communication
-•	 Collaboration
-•	 Personal and cultural
+ 	 Communication
+ 	 Collaboration
+ 	 Personal and cultural
 expression
-•	 Developing any digital
+ 	 Developing any digital
 or tangible product
 that focused on
 communication with a
@@ -928,21 +927,21 @@ Communities can have many
 different perspectives that
 influence the way ideas develop
 and new discoveries are made.
-•	 Communities
-•	 Perspective
-•	 Scientific and technical
+ 	 Communities
+ 	 Perspective
+ 	 Scientific and technical
 innovation
-•	 Development of software
+ 	 Development of software
 for learning or a digital
 learning environment
 Designers adapt the form
 in which information is
 communicated in order to make
 it accessible to the end-user.
-•	 Communities
-•	 Adaptation, form
-•	 Identities and relationships
-•	 Developing methods of
+ 	 Communities
+ 	 Adaptation, form
+ 	 Identities and relationships
+ 	 Developing methods of
 communication used
 to teach, for example:
 resources for a flipped
@@ -954,12 +953,12 @@ in technology, which enhance
 their form and function while
 still meeting ergonomic
 requirements.
-•	 Development
-•	 Ergonomics, form,
+ 	 Development
+ 	 Ergonomics, form,
 function
-•	 Scientific and technical
+ 	 Scientific and technical
 innovation
-•	 Smart materials and
+ 	 Smart materials and
 fashion products
 (thermochromic ink,
 wearable electronics)
@@ -968,25 +967,25 @@ be used as a raw material
 for another, which results in
 developing a resource neutral
 process.
-•	 Development
-•	 Resources, sustainability
-•	 Globalization and
+ 	 Development
+ 	 Resources, sustainability
+ 	 Globalization and
 sustainability
-•	 Developing closed loop
+ 	 Developing closed loop
 manufacturing systems
-•	 Recycling and reusing
+ 	 Recycling and reusing
 waste
-•	 Design for disassembly
+ 	 Design for disassembly
 Systems that are designed to
-meet an individual’s ergonomic
+meet an individual s ergonomic
 requirements can increase their
 ability to function within the
 world.
-•	 Systems
-•	 Ergonomics, function
-•	 Fairness and development
-•	 Design for disabled
-•	 Enhancing human
+ 	 Systems
+ 	 Ergonomics, function
+ 	 Fairness and development
+ 	 Design for disabled
+ 	 Enhancing human
 function
 Table 4
 Example statements of inquiry
@@ -1004,40 +1003,40 @@ Analysing big ideas
 Debatable questions:
 Evaluating perspectives and
 developing theories
-•	 Which electronic
+ 	 Which electronic
 components can be used
 to create a sensory circuit?
-•	 What are the general rules
+ 	 What are the general rules
 of web design?
-•	 How can the nutritional
+ 	 How can the nutritional
 value of a food product be
 determined?
-•	 What are the different
+ 	 What are the different
 aspects of form?
-•	 How do inventions impact
+ 	 How do inventions impact
 our lives?
-•	 What is the value of
+ 	 What is the value of
 negative space?
-•	 Can digital products be
+ 	 Can digital products be
 sustainable?
-•	 When is form more
+ 	 When is form more
 important than function?
-•	 Should all products be
+ 	 Should all products be
 designed for everyone?
-•	 Are any ideas new, or are
+ 	 Are any ideas new, or are
 they new versions of old
 designs?
 Table 5
 Examples of factual, conceptual and debatable questions
 Approaches to learning
-All MYP units of work offer opportunities for students to develop and practise ATL skills. ATL skills provide
-valuable support for students working to meet the subject group’s aims and objectives.
-•	 ATL skills are grouped into five categories that span the IB continuum of international education.
+All MYP units of work offer opportunities for students to develop and practise ATL skills. ATL skills provide
+valuable support for students working to meet the subject group s aims and objectives.
+ 	 ATL skills are grouped into five categories that span the IB continuum of international education.
 IB programmes identify discrete skills in each category that can be introduced, practised and
 consolidated in the classroom and beyond.
-•	 While ATL skills are relevant across all MYP subject groups, teachers may also identify ATL skill
+ 	 While ATL skills are relevant across all MYP subject groups, teachers may also identify ATL skill
 indicators especially relevant for, or unique to, a particular subject group or course.
-•	 Table 6 suggests some of the indicators that can be important in design.
+ 	 Table 6 suggests some of the indicators that can be important in design.
 Category Skill indicator
 Thinking skills Analyse products and suggest how to improve them.
 Social skills Demonstrate active listening when interviewing clients.
@@ -1049,7 +1048,7 @@ Examples of design-specific skill indicators
 Teaching and learning through inquiry
 26 Design guide
 Well-designed learning engagements and assessments provide rich opportunities for students to practise
-and demonstrate ATL skills. Each MYP unit explicitly identifies ATL skills around which teaching and learning
+and demonstrate ATL skills. Each MYP unit explicitly identifies ATL skills around which teaching and learning
 can focus, and through which students can authentically demonstrate what they are able to do. Formative
 assessments provide important feedback for developing discrete skills, and many ATL skills support students
 as they demonstrate their achievements in summative assessments of subject group objectives.
@@ -1067,31 +1066,31 @@ Subject-specific guidance
 General guidance
 The specific content of an MYP design course will differ according to the local or national circumstances.
 However, all MYP design courses should allow students to:
-•	 meet the aims and objectives of MYP design by the end of the programme
-•	 use the design cycle to develop intellectual and practical approaches to problem-solving
-•	 inquire into design problems and establish the need for a solution
-•	 establish design specifications for products/solutions through analysis of the problem and need
-•	 generate feasible ideas and develop them into products/solutions of appropriate sophistication
-•	 develop technical (practical) skills to manipulate digital and/or physical materials
-•	 test and evaluate products/solutions to analyse their effectiveness at solving the problem or meeting
+ 	 meet the aims and objectives of MYP design by the end of the programme
+ 	 use the design cycle to develop intellectual and practical approaches to problem-solving
+ 	 inquire into design problems and establish the need for a solution
+ 	 establish design specifications for products/solutions through analysis of the problem and need
+ 	 generate feasible ideas and develop them into products/solutions of appropriate sophistication
+ 	 develop technical (practical) skills to manipulate digital and/or physical materials
+ 	 test and evaluate products/solutions to analyse their effectiveness at solving the problem or meeting
 the need.
 Time allocation
-In order to complete 2–3 design projects in year 5 that allow students to meet the objectives of the course,
-each project should be allocated at least 15–20 hours of teaching time. This time allocation should allow
+In order to complete 2 3 design projects in year 5 that allow students to meet the objectives of the course,
+each project should be allocated at least 15 20 hours of teaching time. This time allocation should allow
 students to create products/solutions that are sufficiently sophisticated and complex. As a guide, the time
 should be split equally between addressing each objective. Such a division of time should provide students
 with the necessary time to work towards achieving the highest achievement levels in all criteria, and not to
 use all of the available time on creating their solution.
 However, in earlier years, the proportion of time devoted to the development of practical, technical skills
 should be higher. This increased allocation of time will facilitate the development of skills that the student
-will require to work independently in years 4 and 5 of the programme.
+will require to work independently in years 4 and 5 of the programme.
 Class size
 MYP courses in design require schools to plan for class sizes small enough to ensure a learning environment
 characterized by:
-•	 adequate supervision
-•	 individual attention and full participation
-•	 appropriate access to equipment and facilities
-•	 safe and enjoyable learning experiences for all students.
+ 	 adequate supervision
+ 	 individual attention and full participation
+ 	 appropriate access to equipment and facilities
+ 	 safe and enjoyable learning experiences for all students.
 Subject-specific guidance
 28 Design guide
 Design situations
@@ -1109,7 +1108,7 @@ In later years, MYP design courses should address design problems.
 A design problem is a real-life problem that needs to be solved for a specific client or a target market. The
 nature of the problem will be explored by students, who will consider a variety of ways to approach and
 investigate possible solutions. The problem will include physical or functional requirements that all feasible
-solutions must meet. Real-life situations that are relevant to students’ lives and local reality pose interesting
+solutions must meet. Real-life situations that are relevant to students  lives and local reality pose interesting
 and provoking problems to solve.
 Recommended design tasks
 The use of different types of design tasks are recommended to frame teaching and learning in design.
@@ -1119,24 +1118,24 @@ for students to explore the design cycle and to gain experience of how design re
 Design project
 The design project is a compulsory component of all MYP design courses.
 This task must be assessed using all four criteria. It must be presented as a design folder that is clearly
-divided into four sections: one per criterion. It must begin with the student’s inquiry into the problem and
+divided into four sections: one per criterion. It must begin with the student s inquiry into the problem and
 end with the evaluation of the product/solution. Students are presented with a design situation by the
 teacher, from which they identify their own problem.
 Other recommended tasks include the product/system study and the design and make.
 Effective use of information and communication
 technology in design
-Information and communication technology (ICT) involves the use of computers, its applications and
+Information and communication technology (ICT) involves the use of computers, its applications and
 communication facilities in teaching and learning activities. Therefore, the use of ICT goes beyond MYP
 design and extends to all the teaching and learning in all subjects across the curriculum. The effective use of
-ICT is an approaches to learning (ATL) skill and, as such, schools must ensure that a whole-school approach
+ICT is an approaches to learning (ATL) skill and, as such, schools must ensure that a whole-school approach
 is in place to allow students to develop information technology literacy and become competent users of
 computers.
 Subject-specific guidance
 Design guide 29
-Depending upon the school’s resources, ICT should be used whenever appropriate:
-•	 as a means of expanding students’ knowledge of the world in which they live
-•	 as a channel for developing concepts and skills
-•	 as a powerful communication tool.
+Depending upon the school s resources, ICT should be used whenever appropriate:
+ 	 as a means of expanding students  knowledge of the world in which they live
+ 	 as a channel for developing concepts and skills
+ 	 as a powerful communication tool.
 The use of ICT does not necessarily involve the use of the design cycle. ICT is a tool, which can be used in
 digital and product design courses to develop solutions to problems. While design teachers may be given
 responsibility by their school for helping students develop ICT literacy, teaching and learning ICT skills
@@ -1154,11 +1153,11 @@ level
 Level descriptor
 0 The student does not reach a standard identified by any of the descriptors
 below.
-1–2 The student:
+1 2 The student:
 i. lists some basic design specifications for the design of a solution
 ii. presents one design, which can be interpreted by others
 iii. creates incomplete planning drawings/diagrams.
-3–4 The student:
+3 4 The student:
 i. lists some design specifications, which relate to the success criteria for
 the design of a solution
 ii. presents a few feasible designs, using an appropriate medium(s) or
@@ -1167,22 +1166,22 @@ iii. justifies the selection of the chosen design with reference to the
 design specification
 iv. creates planning drawings/diagrams or lists requirements for the
 creation of the chosen solution.
-5–6 The student:
+5 6 The student:
 i. develops design specifications which outline the success criteria for
 the design of a solution
 ii. develops a range of feasible design ideas using an appropriate
 medium(s) and annotation which can be interpreted by others
-iii. presents the chosen design and justifies it’s selection with reference
+iii. presents the chosen design and justifies it s selection with reference
 to the design specification
 iv. develops accurate planning drawings/diagrams and lists requirements
 for the creation of the chosen solution.
-7–8 The student:
+7 8 The student:
 i. develops detailed design specifications, which explain the success
 criteria for the design of a solution based on the analysis of the research
 ii. develops a range of feasible design ideas, using an appropriate
 medium(s) and detailed annotation, which can be correctly
 interpreted by others
-iii. presents the chosen design and justifies fully and critically it’s
+iii. presents the chosen design and justifies fully and critically it s
 selection with detailed reference to the design specification
 iv. develops accurate and detailed planning drawings/diagrams and
 outlines requirements for the creation of the chosen solution.
@@ -1218,19 +1217,19 @@ Criterion D Evaluating Maximum 8
 Subject groups must address all strands of all four assessment criteria at least twice in each year of
 the MYP.
 In the MYP, subject group objectives correspond to assessment criteria. Each criterion has nine possible
-levels of achievement (0–8), divided into four bands that generally represent limited (1–2); adequate (3–4);
-substantial (5–6); and excellent (7–8) performance. Each band has its own unique descriptor, which teachers
-use to make “best-fit” judgments about students’ progress and achievement.
+levels of achievement (0 8), divided into four bands that generally represent limited (1 2); adequate (3 4);
+substantial (5 6); and excellent (7 8) performance. Each band has its own unique descriptor, which teachers
+use to make  best-fit  judgments about students  progress and achievement.
 This guide provides the required assessment criteria for years 1, 3 and 5 of MYP design. In response to
 national or local requirements, schools may add criteria and use additional models of assessment. Schools
-must use the appropriate assessment criteria as published in this guide to report students’ final achievement
+must use the appropriate assessment criteria as published in this guide to report students  final achievement
 in the programme.
 Teachers clarify the expectations for each summative assessment task with direct reference to these
 assessment criteria. Task-specific clarifications should clearly explain what students are expected to know
 and do. They might be in the form of:
-•	 a task-specific version of the required assessment criteria
-•	 a face-to-face or virtual classroom discussion
-•	 a detailed task sheet or assignment.
+ 	 a task-specific version of the required assessment criteria
+ 	 a face-to-face or virtual classroom discussion
+ 	 a detailed task sheet or assignment.
 32 Design guide
 Assessed curriculum
 Design assessment criteria: Year 1
@@ -1243,11 +1242,11 @@ iii. describe the main features of one existing product that inspires a solution
 iv. present the main findings of relevant research.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. states the need for a solution to a problem
 ii. states the findings of research.
-3–4
+3 4
 The student:
 i. outlines the need for a solution to a problem
 ii. states some points of research needed to develop a solution, with some
@@ -1255,7 +1254,7 @@ guidance
 iii. states the main features of an existing product that inspires a solution to
 the problem
 iv. outlines some of the main findings of research.
-5–6
+5 6
 The student:
 i. explains the need for a solution to a problem
 ii. states and prioritizes the main points of research needed to develop a
@@ -1263,7 +1262,7 @@ solution to the problem, with some guidance
 iii. outlines the main features of an existing product that inspires a solution
 to the problem
 iv. outlines the main findings of relevant research.
-7–8
+7 8
 The student:
 i. explains and justifies the need for a solution to a problem
 ii. states and prioritizes the main points of research needed to develop a
@@ -1282,12 +1281,12 @@ iii. present the chosen design
 iv. create a planning drawing/diagram which outlines the main details for making the chosen solution.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. states one basic success criterion for a solution
 ii. presents one design idea, which can be interpreted by others
 iii. creates an incomplete planning drawing/diagram.
-3–4
+3 4
 The student:
 i. states a few success criteria for the solution
 ii. presents more than one design idea, using an appropriate medium(s) or
@@ -1295,7 +1294,7 @@ labels key features, which can be interpreted by others
 iii. states the key features of the chosen design
 iv. creates a planning drawing/diagram or lists requirements for the creation
 of the chosen solution.
-5–6
+5 6
 The student:
 i. develops a few success criteria for the solution
 ii. presents a few feasible design ideas, using an appropriate medium(s) and
@@ -1303,7 +1302,7 @@ labels key features, which can be interpreted by others
 iii. presents the chosen design stating the key features
 iv. creates a planning drawing/diagram and lists the main details for the
 creation of the chosen solution.
-7–8
+7 8
 The student:
 i. develops a list of success criteria for the solution
 ii. presents feasible design ideas, using an appropriate medium(s) and
@@ -1324,12 +1323,12 @@ design and plan when making the solution
 iv. present the solution as a whole.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. demonstrates minimal technical skills when making the solution
 ii. creates the solution, which functions poorly and is presented in an
 incomplete form.
-3–4
+3 4
 The student:
 i. lists the main steps in a plan that contains some details, resulting in peers
 having difficulty following the plan to create the solution
@@ -1338,7 +1337,7 @@ iii. creates the solution, which partially functions and is adequately
 presented
 iv. states one change made to the chosen design or plan when making the
 solution.
-5–6
+5 6
 The student:
 i. lists the steps in a plan, which considers time and resources, resulting in
 peers being able to follow the plan to create the solution
@@ -1347,7 +1346,7 @@ iii. creates the solution, which functions as intended and is presented
 appropriately
 iv. states one change made to the chosen design and plan when making
 the solution.
-7–8
+7 8
 The student:
 i. outlines a plan, which considers the use of resources and time, sufficient
 for peers to be able to follow to create the solution
@@ -1367,12 +1366,12 @@ iii. outline how the solution could be improved
 iv. outline the impact of the solution on the client/target audience.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. defines a testing method, which is used to measure the success of the
 solution
 ii. states the success of the solution.
-3–4
+3 4
 The student:
 i. defines a relevant testing method, which generates data, to measure
 the success of the solution
@@ -1381,7 +1380,7 @@ on the results of one relevant test
 iii. states one way in which the solution could be improved
 iv. states one way in which the solution can impact the client/target
 audience.
-5–6
+5 6
 The student:
 i. defines relevant testing methods, which generate data, to measure the
 success of the solution
@@ -1390,7 +1389,7 @@ on relevant product testing
 iii. outlines one way in which the solution could be improved
 iv. outlines the impact of the solution on the client/target audience, with
 guidance.
-7–8
+7 8
 The student:
 i. outlines simple, relevant testing methods, which generate data, to
 measure the success of the solution
@@ -1411,18 +1410,18 @@ iii. analyse a group of similar products that inspire a solution to the problem
 iv. develop a design brief, which presents the analysis of relevant research.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. states the need for a solution to a problem
 ii. states some of the main findings of relevant research.
-3–4
+3 4
 The student:
 i. outlines the need for a solution to a problem
 ii. states the research needed to develop a solution to the problem, with
 some guidance
 iii. outlines one existing product that inspires a solution to the problem
 iv. develops a basic design brief, which outlines some of relevant research.
-5–6
+5 6
 The student:
 i. explains the need for a solution to a problem
 ii. constructs a research plan, which states and prioritizes the primary and
@@ -1431,7 +1430,7 @@ some guidance
 iii. describes a group of similar products that inspire a solution to the
 problem
 iv. develops a design brief, which outlines the findings of relevant research.
-7–8
+7 8
 The student:
 i. explains and justifies the need for a solution to a problem
 ii. constructs a research plan, which states and prioritizes the primary
@@ -1452,12 +1451,12 @@ iv. develop accurate planning drawings/diagrams and outline requirements for the
 chosen solution.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. lists a few basic success criteria for the design of a solution
 ii. presents one design idea, which can be interpreted by others
 iii. creates incomplete planning drawings/diagrams.
-3–4
+3 4
 The student:
 i. constructs a list of the success criteria for the design of a solution
 ii. presents a few feasible design ideas, using an appropriate medium(s) or
@@ -1466,7 +1465,7 @@ iii. outlines the main reasons for choosing the design with reference to the
 design specification
 iv. creates planning drawings/diagrams or lists requirements for the chosen
 solution.
-5–6
+5 6
 The student:
 i. develops design specifications, which identify the success criteria for the
 design of a solution
@@ -1476,7 +1475,7 @@ iii. presents the chosen design and outlines the main reasons for its
 selection with reference to the design specification
 iv. develops accurate planning drawings/diagrams and lists requirements
 for the creation of the chosen solution.
-7–8
+7 8
 The student:
 i. develops a design specification which outlines the success criteria for
 the design of a solution based on the data collected
@@ -1499,12 +1498,12 @@ chosen design and the plan when making the solution.
 iv. present the solution as a whole
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. demonstrates minimal technical skills when making the solution
 ii. creates the solution, which functions poorly and is presented in an
 incomplete form.
-3–4
+3 4
 The student:
 i. outlines each step in a plan that contains some details, resulting in peers
 having difficulty following the plan to create the solution
@@ -1513,7 +1512,7 @@ iii. creates the solution, which partially functions and is adequately
 presented
 iv. outlines changes made to the chosen design or plan when making the
 solution.
-5–6
+5 6
 The student:
 i. constructs a plan, which considers time and resources, sufficient for
 peers to be able to follow to create the solution
@@ -1522,7 +1521,7 @@ iii. creates the solution, which functions as intended and is presented
 appropriately
 iv. outlines changes made to the chosen design and plan when making the
 solution.
-7–8
+7 8
 The student:
 i. constructs a logical plan, which outlines the efficient use of time and
 resources, sufficient for peers to be able to follow to create the solution
@@ -1543,12 +1542,12 @@ iii. describe how the solution could be improved
 iv. describe the impact of the solution on the client/target audience.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. describes a testing method, which is used to measure the success of the
 solution
 ii. states the success of the solution.
-3–4
+3 4
 The student:
 i. describes a relevant testing method, which generates data, to measure
 the success of the solution
@@ -1556,7 +1555,7 @@ ii. outlines the success of the solution against the design specification
 based on relevant product testing
 iii. lists the ways in which the solution could be improved
 iv. outlines the impact of the solution on the client/target audience.
-5–6
+5 6
 The student:
 i. describes relevant testing methods, which generate data, to measure
 the success of the solution
@@ -1565,7 +1564,7 @@ based on relevant product testing
 iii. outlines how the solution could be improved
 iv. describes the impact of the solution on the client/target audience, with
 guidance.
-7–8
+7 8
 The student:
 i. describes detailed and relevant testing methods, which generate
 accurate data, to measure the success of the solution
@@ -1585,13 +1584,13 @@ iii. analyse a range of existing products that inspire a solution to the problem
 iv. develop a detailed design brief, which summarizes the analysis of relevant research.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. states the need for a solution to a problem for a specified client/target
 audience
 ii. develops a basic design brief, which states the findings of relevant
 research.
-3–4
+3 4
 The student:
 i. outlines the need for a solution to a problem for a specified client/target
 audience
@@ -1600,7 +1599,7 @@ research needed to develop a solution to the problem, with some
 guidance
 iii. analyses one existing product that inspires a solution to the problem
 iv. develops a design brief, which outlines the analysis of relevant research.
-5–6
+5 6
 The student:
 i. explains the need for a solution to a problem for a specified client/target
 audience
@@ -1613,7 +1612,7 @@ iv. develops a design brief, which explains the analysis of relevant research.
 Design assessment criteria: Year 5
 Design guide 41
 Achievement level Level descriptor
-7–8
+7 8
 The student:
 i. explains and justifies the need for a solution to a problem for a client/
 target audience
@@ -1636,12 +1635,12 @@ iv. develop accurate and detailed planning drawings/diagrams and outline the req
 creation of the chosen solution.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. lists some basic design specifications for the design of a solution
 ii. presents one design, which can be interpreted by others
 iii. creates incomplete planning drawings/diagrams.
-3–4
+3 4
 The student:
 i. lists some design specifications, which relate to the success criteria for
 the design of a solution
@@ -1651,7 +1650,7 @@ iii. justifies the selection of the chosen design with reference to the design
 specification
 iv. creates planning drawings/diagrams or lists requirements for the
 creation of the chosen solution.
-5–6
+5 6
 The student:
 i. develops design specifications, which outline the success criteria for the
 design of a solution
@@ -1664,7 +1663,7 @@ for the creation of the chosen solution.
 Design assessment criteria: Year 5
 Design guide 43
 Achievement level Level descriptor
-7–8
+7 8
 The student:
 i. develops detailed design specifications, which explain the success
 criteria for the design of a solution based on the analysis of the research
@@ -1688,12 +1687,12 @@ iv. fully justify changes made to the chosen design and plan when making the sol
 a. present the solution as a whole
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. demonstrates minimal technical skills when making the solution
 ii. creates the solution, which functions poorly and is presented in an
 incomplete form.
-3–4
+3 4
 The student:
 i. constructs a plan that contains some production details, resulting in
 peers having difficulty following the plan
@@ -1702,7 +1701,7 @@ iii. creates the solution, which partially functions and is adequately
 presented
 iv. outlines changes made to the chosen design and plan when making the
 solution.
-5–6
+5 6
 The student:
 i. constructs a logical plan, which considers time and resources, sufficient
 for peers to be able to follow to create the solution
@@ -1711,7 +1710,7 @@ iii. creates the solution, which functions as intended and is presented
 appropriately
 iv. describes changes made to the chosen design and plan when making the
 solution.
-7–8
+7 8
 The student:
 i. constructs a detailed and logical plan, which describes the efficient
 use of time and resources, sufficient for peers to be able to follow to
@@ -1733,12 +1732,12 @@ iii. explain how the solution could be improved
 iv. explain the impact of the solution on the client/target audience.
 Achievement level Level descriptor
 0 The student does not reach a standard described by any of the descriptors below.
-1–2
+1 2
 The student:
 i. designs a testing method, which is used to measure the success of the
 solution
 ii. states the success of the solution.
-3–4
+3 4
 The student:
 i. designs a relevant testing method, which generates data, to measure
 the success of the solution
@@ -1746,7 +1745,7 @@ ii. outlines the success of the solution against the design specification
 based on relevant product testing
 iii. outlines how the solution could be improved
 iv. outlines the impact of the solution on the client/target audience.
-5–6
+5 6
 The student:
 i. designs relevant testing methods, which generate data, to measure the
 success of the solution
@@ -1755,7 +1754,7 @@ based on relevant product testing
 iii. describes how the solution could be improved
 iv. explains the impact of the solution on the client/target audience, with
 guidance.
-7–8
+7 8
 The student:
 i. designs detailed and relevant testing methods, which generate data,
 to measure the success of the solution
@@ -1766,27 +1765,27 @@ iv. explains the impact of the product on the client/target audience.
 Design assessment criteria: Year 5
 46 Design guide
 Notes for criterion A
-•	 When developing the design brief, students should concisely summarize only the useful and
+ 	 When developing the design brief, students should concisely summarize only the useful and
 relevant information they have found through their research. They will present this information in
 their own words. Students should not copy and paste information from sources without analysis or
 indicating relevance.
 Notes for criterion B
-•	 In MYP design, a feasible idea is one that the student can create within the allocated time with the
+ 	 In MYP design, a feasible idea is one that the student can create within the allocated time with the
 tools and facilities available to them.
-•	 Examples of “planning drawings/diagrams” for digital design solutions include website navigation
-maps, interface layout—aesthetic considerations (websites), detailed sketches (graphic design),
+ 	 Examples of  planning drawings/diagrams  for digital design solutions include website navigation
+maps, interface layout aesthetic considerations (websites), detailed sketches (graphic design),
 detailed storyboards (video editing and animations), and so on.
-•	 Examples of “planning drawings/diagrams” for product design solutions include scale drawing
+ 	 Examples of  planning drawings/diagrams  for product design solutions include scale drawing
 with measurements (orthographic), part and assembly drawings, exploded drawings, recipes,
 cutting plans, and so on.
 Notes for criterion C
-•	 When changes have been made to the solution, students must describe and justify each change. If
+ 	 When changes have been made to the solution, students must describe and justify each change. If
 there are no changes to the plan, students are not required to describe or justify any changes.
-•	 Technical skills: A student’s level of technical skill can be determined using the following two factors:
-– the complexity of skill demonstrated
-– the level of guidance needed from the teacher to complete the task.
+ 	 Technical skills: A student s level of technical skill can be determined using the following two factors:
+  the complexity of skill demonstrated
+  the level of guidance needed from the teacher to complete the task.
 The teacher should determine an age-appropriate level of technical skill demonstrated by the student
-using a “best-fit” approach. A clarification is detailed below.
+using a  best-fit  approach. A clarification is detailed below.
 Minimal technical skills: Simple skills are demonstrated and the student requires a great deal of
 assistance after they have received initial instruction on how to use tools.
 Satisfactory technical skills: Simple and complex skills are demonstrated and the student requires
@@ -1796,21 +1795,21 @@ independently, requiring some guidance after initial instruction.
 Excellent technical skills: A wide range of complex skills are demonstrated and the student works
 independently, requiring minimal guidance after initial instruction.
 Notes for criterion D
-•	 Product testing: This is a stage in the design process where versions of products (for example,
+ 	 Product testing: This is a stage in the design process where versions of products (for example,
 prototypes) are tested against the design need (specification), applied to the context and
 presented to the end-user or target audience. These tests may include the collection and analysis
 of data. Types of testing include user trial and observation: (usability and intuitiveness), field/
 performance test: (functionality and performance), expert appraisal: (beta testing, consumer
 testing)
-•	 Authentic tests: The tests are relevant to the project and are completed by appropriate testers to
+ 	 Authentic tests: The tests are relevant to the project and are completed by appropriate testers to
 gain high-quality quantitative and qualitative feedback.
 Design guide 47
 Assessed curriculum
 eAssessment
 Students seeking IB MYP Results for MYP design courses complete an ePortfolio in which they can
-demonstrate their achievement of subject group objectives. The portfolio is marked by the student’s
-teacher(s), following the school’s internal standardization of tasks and judgments against the criteria for
-year 5. Successful results can contribute to students’ attainment of the IB MYP Certificate.
+demonstrate their achievement of subject group objectives. The portfolio is marked by the student s
+teacher(s), following the school s internal standardization of tasks and judgments against the criteria for
+year 5. Successful results can contribute to students  attainment of the IB MYP Certificate.
 A process of external moderation assures accurate and consistently applied standards, as set forth in Guide
 to MYP to eAssessment.
 48 Design guide
@@ -1819,11 +1818,11 @@ Related concepts in design
 Related concept Definition
 Adaptation Adaptation involves incorporating ideas found in one product into the
 development of a new product.
-Collaboration Collaboration involves two or more people sharing expertise and experience,
+Collaboration Collaboration involves two or more people sharing expertise and experience,
 working together to solve a problem and realize shared goals.
 Ergonomics Ergonomics is the application of scientific information and understanding of how
 humans relate to products, systems, interfaces and environments.
-Evaluation In design, evaluation involves the gathering and processing of data to determine
+Evaluation In design, evaluation involves the gathering and processing of data to determine
 an action. Evaluation involves feedback, which can be used to control, revise or
 modify.
 Form Form concerns the overall shape and configuration of a product. It relates to
@@ -1842,15 +1841,15 @@ a problem. Stakeholders can have different perspectives and can include clients,
 target audiences, focus groups, consumers, manufacturers and experts.
 Resources Resources relate to the supply of a commodity. In MYP design, these commodities
 can be classified as information, materials and equipment.
-Sustainability Sustainability is the capacity to endure, which can have environmental, economic
+Sustainability Sustainability is the capacity to endure, which can have environmental, economic
 and social dimensions. In MYP design, sustainability can be considered in the
 following ways.
-•	 Green and Eco-design
-•	 Sustainable consumption
-•	 Sustainable design
-•	 Sustainable development
-•	 Sustainable innovation
-•	 Sustainable production
+ 	 Green and Eco-design
+ 	 Sustainable consumption
+ 	 Sustainable design
+ 	 Sustainable development
+ 	 Sustainable innovation
+ 	 Sustainable production
 Design guide 49
 Appendices
 Design glossary
@@ -1873,7 +1872,7 @@ manufacture
 (CAM)
 The use of computers to cut materials or create components, normally using CAD
 or numeric control.
-Design brief The student’s response to the design situation, based on his or her research,
+Design brief The student s response to the design situation, based on his or her research,
 detailing how he or she intends to solve the problem. This will summarize the
 relevant findings from his or her research, and inform the development of his or
 her design specification.
@@ -1904,7 +1903,7 @@ Term Definition
 Planning
 drawings/
 diagrams
-Detailed drawings or diagrams, which include details of a product’s components
+Detailed drawings or diagrams, which include details of a product s components
 and how they are combined/assembled.
 Target audience A group of similar users who require a solution to a common problem or a product
 that fills a common need or want.
@@ -1919,7 +1918,7 @@ Term Definition
 Analyse Break down in order to bring out the essential elements or structure. To identify
 parts and relationships, and to interpret information to reach conclusions.
 Construct Display information in a diagrammatic or logical form.
-Create To evolve from one’s own thought or imagination, as a work or an invention.
+Create To evolve from one s own thought or imagination, as a work or an invention.
 Define Give the precise meaning of a word, phrase, concept or physical quantity.
 Demonstrate Prove or make clear by reasoning or evidence, illustrating with examples or
 practical application.
@@ -1947,7 +1946,7 @@ Aspelund, K. 2010. The Design Process. (Second Edition). New York, New York, USA
 Baxter, M. 1995. Product Design: Practical Methods for the Systematic Development of New Products. London,
 UK. Chapman and Hall.
 Bowles, C and Box, J. 2011. Undercover: User Experience Design. Berkeley, California, USA. New Riders.
-Computer Science for fun. CS4FN. (Issues 1–13). Queen Mary University of London. http://www.cs4fn.org
+Computer Science for fun. CS4FN. (Issues 1 13). Queen Mary University of London. http://www.cs4fn.org
 (accessed 12 June 2013).
 Cooper, A, Reimann, R and Cronin, D. 2007. About Face 3: The Essentials of Interaction Design. Indianapolis,
 Indiana, USA. Wiley Publishing Inc.
@@ -1970,5 +1969,5 @@ Technology in Secondary Schools. (Updated Version). Wellesbourne, UK. The Design
 Association.
 Webster, K and Johnson, C. 2010. Sense and Sustainability: Educating for a Circular Economy. (Second Edition).
 TerraPreta in association with the Ellen MacArthur Foundation and InterfaceFLOR.
-Williams, R. 2008. The Non-Designer’s Design Book: Design and Typographical Principles for the Visual Novice.
+Williams, R. 2008. The Non-Designer s Design Book: Design and Typographical Principles for the Visual Novice.
 (Third Edition). Berkeley, California, USA. Peachpit Press.

@@ -1,7 +1,7 @@
 import re
 
 def inputer(filename): 
-    text = list(set(open(str(filename) + ".txt").read().lower().split())) 
+    text = list(set(filename.lower().split())) 
     return text 
 
 
@@ -19,18 +19,39 @@ def finder(templ, text):
 
 
 def sorter(words):
-    a = []
-    b = []
+    adjacent = []
+    output = []
+    temporary = []
+    
     for i in words:
-        a += [[int(open("text" + ".txt").read().lower().split().count(i)), str(i)]]
-    a = sorted(a)
-    for i in a:
-        b += [i[1]]
+        adjacent += [[int(open("text" + ".txt").read().lower().split().count(i)), str(i)]]
         
-    return reversed(b)
+    adjacent = sorted(adjacent)
+    
+    for i in adjacent:
+        output += [i[1]]
+        
+    for i in range(len(output)):
+        if re.search('es$', output[i]) or re.search('ed$', output[i]) or re.search("'s$", output[i]) or re.search("'m$", output[i]):
+            tmp = str(output[i])[:-2]
+            if tmp in librarian("lib") or tmp in output:
+                temporary += [output[i]]
+        elif  re.search('ing$', output[i]):
+            tmp = str(output[i])[:-3]
+            if tmp in librarian("lib") or tmp in output:
+                temporary += [output[i]]
+        
+                
+    for i in range(len(temporary)):
+        try:
+            output.remove(str(temporary[i]))
+        except builtins.ValueError:
+            pass
+        
+    return reversed(output)
 
               
-def printer(text, lib): 
-    print("\n".join(sorter(list(set(finder(re.compile('[a-zA-Z]+'), inputer(text))) - librarian(lib))))) 
+def distinguish(text, lib): 
+    print("\n".join(sorter(list(set(finder(re.compile('[a-zA-Z]+'), inputer(text))) - librarian(lib)))))
 
-printer("text", "lib")
+distinguish(input(), "lib")
