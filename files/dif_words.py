@@ -2,7 +2,7 @@ from tkinter import *
 from deleter_and_sorter import * 
 
 #text_input = text_inp.get(1.0, END)
-level = 1000
+level = 1000 # max is 5990 sorry:c, min is 10
 lang_nomb = 1
 Quit = str("Quit")
 Language = str("Language")
@@ -18,11 +18,11 @@ def dist():
     l = distinguish(w, "frequency", level)
     txt_out.insert('end', l)
         
-#Название окна
+#ГЌГ Г§ГўГ Г­ГЁГҐ Г®ГЄГ­Г 
 root = Tk()
-root.title("Сложные тексты")
+root.title("Г‘Г«Г®Г¦Г­Г»ГҐ ГІГҐГЄГ±ГІГ»")
 
-#Меню
+#ГЊГҐГ­Гѕ
 menu = Menu(root)
 root.config(menu=menu)
 
@@ -30,29 +30,29 @@ file_menu = Menu(menu)
 menu.add_cascade(label=Language, menu=file_menu)
 file_menu.add_command(label="English")
 file_menu.add_separator()
-file_menu.add_command(label="Русский")
+file_menu.add_command(label="ГђГіГ±Г±ГЄГЁГ©")
 
 edit_menu = Menu(menu)
 menu.add_cascade(label=Quit, command=root.destroy)
 frame = Frame(root)
 frame.grid()
 
-#Лейблы
+#Г‹ГҐГ©ГЎГ«Г»
 lbl = Label(frame, text=Label1)
 lbl.grid(row=0, column=0)
 
 lbl = Label(frame, text=Label2)
 lbl.grid(row=0, column=1)
 
-#Кнопка
+#ГЉГ­Г®ГЇГЄГ 
 btn = Button(frame, text=Button1, command = dist)
 btn.grid(row=2, column=0)
 
-#ввод текста
+#ГўГўГ®Г¤ ГІГҐГЄГ±ГІГ 
 txt_inp = Text(frame, width=50, height=30)
 txt_inp.grid(row=1, column=0)
 
-#вывод слов
+#ГўГ»ГўГ®Г¤ Г±Г«Г®Гў
 txt_out = Text(frame, width=20, height=30)
 txt_out.grid(row=1, column=1)
 
