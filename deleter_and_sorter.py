@@ -56,4 +56,6 @@ def sorter(words):
 
               
 def distinguish(text, lib, level): 
-    return "\n".join(sorter(list(set(finder(re.compile('[a-zA-Z]+'), inputer(text))) - librarian(lib, level))))
+    print("\n".join(sorter(list(set(finder(re.compile('[a-zA-Z]+'), inputer(text))) - librarian(lib, level)))))
+
+distinguish(input(), "lib", int(input()))
