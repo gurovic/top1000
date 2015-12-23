@@ -6,7 +6,7 @@ def inputer(filename):
 
 
 def librarian(filename, level): 
-    libriary = set(open(str(filename) + ".txt").read().split()[:level-1]) 
+    libriary = set(open(str(filename) + ".rtf").read().split()[:level-1]) 
     return libriary 
 
 
