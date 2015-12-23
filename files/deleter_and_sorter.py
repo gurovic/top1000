@@ -5,8 +5,8 @@ def inputer(filename):
     return text 
 
 
-def librarian(filename): 
-    libriary = set(open(str(filename) + ".txt").read().split()) 
+def librarian(filename, level): 
+    libriary = set(open(str(filename) + ".txt").read().split()[:level-1]) 
     return libriary 
 
 
@@ -51,7 +51,7 @@ def sorter(words):
     return reversed(output)
 
               
-def distinguish(text, lib): 
-    print("\n".join(sorter(list(set(finder(re.compile('[a-zA-Z]+'), inputer(text))) - librarian(lib)))))
+def distinguish(text, lib, level): 
+    print("\n".join(sorter(list(set(finder(re.compile('[a-zA-Z]+'), inputer(text))) - librarian(lib, level)))))
 
-distinguish(input(), "lib")
+distinguish(input(), "lib", int(input()))
